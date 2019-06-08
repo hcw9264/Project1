@@ -1,4 +1,4 @@
-# Machine Learning HW4
+# Machine Learning in R HW4 (Spam and Ham)
 ---
 title: "APAN5335_HW4_hw2647"
 author: "Huan Cheng Wang"
